@@ -1,2 +1,1 @@
-# cv
- my first django project "CV website"
+It is my first django project. It is a cv site which is a exercise from django course that im taking.
